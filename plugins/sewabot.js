@@ -13,13 +13,13 @@ let handler = async (m, { conn }) => {
   description: ` *• SEWA BOT & UP TO PREMIUM •*
         
 1. Grup / 7 Hari
-Rp. 5.000
+Rp. 2.000
 
 2. Grub / 30 Hari
-Rp. 8.000 
+Rp. 4.000 
 
 3. Grup / permanen
-Rp. 10.000 
+Rp. 8.000 
 
 wa.me/${owner[0]}
 *Mau sewa bot? hubungi*
